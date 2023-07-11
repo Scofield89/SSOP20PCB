@@ -498,7 +498,7 @@
     (property "Value" "Conn_01x10_Male" (id 1) (at 97.79 54.6099 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical" (id 2) (at 96.52 54.61 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" (id 2) (at 96.52 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 96.52 54.61 0)
@@ -521,7 +521,7 @@
     (uuid 25f62335-e988-4313-b11e-57280aa02d78)
     (property "Reference" "J3" (id 0) (at 42.545 86.36 0))
     (property "Value" "Conn_01x10_Male" (id 1) (at 42.545 88.9 0))
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical" (id 2) (at 41.91 101.6 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" (id 2) (at 41.91 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 41.91 101.6 0)
@@ -548,7 +548,7 @@
     (property "Value" "Conn_01x10_Male" (id 1) (at 99.06 104.1399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical" (id 2) (at 97.79 104.14 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" (id 2) (at 97.79 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.79 104.14 0)
@@ -571,7 +571,7 @@
     (uuid 9a9c0c95-763d-4ba5-a374-e477614fd8cc)
     (property "Reference" "J1" (id 0) (at 41.275 36.83 0))
     (property "Value" "Conn_01x10_Male" (id 1) (at 41.275 39.37 0))
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical" (id 2) (at 40.64 52.07 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" (id 2) (at 40.64 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 40.64 52.07 0)
@@ -628,16 +628,16 @@
 
   (symbol_instances
     (path "/9a9c0c95-763d-4ba5-a374-e477614fd8cc"
-      (reference "J1") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/21cbb6e6-e4fe-41a4-bc94-a9e0941af133"
-      (reference "J2") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical")
+      (reference "J2") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/25f62335-e988-4313-b11e-57280aa02d78"
-      (reference "J3") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical")
+      (reference "J3") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/31421a69-3841-4f7c-82cf-1a11278c38cf"
-      (reference "J4") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical")
+      (reference "J4") (unit 1) (value "Conn_01x10_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/0baf8bb0-6fa7-4780-937f-2d52dc138326"
       (reference "U1") (unit 1) (value "AD") (footprint "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm")
